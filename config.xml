@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>布丁布丁吃什麼？</name>
-    <description>這顆布丁是在無聊的世界中找尋樂趣的一種不能吃的食物。喜歡動漫畫、喜歡遊戲、喜歡程式、喜歡跟世間脫節的生活步調中，撰寫blog──布丁布丁吃什麼？ http://blog.pulipuli.info/</description>
-    <author href="http://blog.pulipuli.info" email="pulipuli.chen@gmail.com">布丁布丁吃布丁</author>
+    <name>珍稀拍賣有限公司  Rarehouse Auction Ltd.</name>
+    <description>世界錢幣、紙鈔、郵品、工藝品等等 http://rarehouseauction.com</description>
+    <author href="http://rarehouseauction.com" email="info@rarehouseauction.com">珍稀拍賣有限公司  Rarehouse Auction Ltd.</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
@@ -13,7 +13,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="icon.png"/>
+    <icon src="Logo.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
