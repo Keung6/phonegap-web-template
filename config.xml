@@ -3,7 +3,7 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>珍稀拍賣有限公司  Rarehouse Auction Ltd.</name>
+    <name>Rarehouse Auction</name>
     <description>世界錢幣、紙鈔、郵品、工藝品等等 http://rarehouseauction.com</description>
     <author href="http://rarehouseauction.com" email="info@rarehouseauction.com">珍稀拍賣有限公司  Rarehouse Auction Ltd.</author>
     <!-- Configuration End -->
